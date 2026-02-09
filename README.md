@@ -1,4 +1,4 @@
-# 📘 Programming Exercise – Practice Test Cases and Evidence
+# 📘 Programming Exercise 2 – Practice Test Cases and Evidence
 
 This repository contains the solutions for **three programming exercises** required for the assignment:
 
