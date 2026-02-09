@@ -1,0 +1,5 @@
+==== SALES RESULTS ====
+Total Sales Cost: $2,481.86
+
+Time Elapsed: 0.000282 seconds
+=======================
