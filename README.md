@@ -1,6 +1,6 @@
 # 📘 Programming Exercise 2 – Practice Test Cases and Evidence
 
-This repository contains the solutions for **three programming exercises** required for the assignment:
+This repository contains the solutions for **1 programming exercise** required for the assignment:
 
 1. **Compute Sales**
 
